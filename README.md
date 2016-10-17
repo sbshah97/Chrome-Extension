@@ -17,7 +17,11 @@ $ cd Chrome-Extension/GTmetrix-Chrome-Plugin
 
 #Contributing
 
+Refer CONTRIBUTING.md file
+
 ##Code Status
 
 
 ##License
+
+Refer license.md file
