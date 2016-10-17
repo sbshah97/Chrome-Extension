@@ -22,7 +22,7 @@ $ cd Chrome-Extension/GTmetrix-Chrome-Plugin
 - [Click Here](https://github.com/salman-bhai/Chrome-Extension/blob/master/CONTRIBUTING.md)
 
 ##Code Status
-[Click Here] (https://github.com/salman-bhai/Chrome-Extension/blob/master/GTmetrix-Chrome-Plugin/README.md)
+- [Click Here] (https://github.com/salman-bhai/Chrome-Extension/blob/master/GTmetrix-Chrome-Plugin/README.md)
 
 ##License
 - The software is registered under the [MIT License](https://github.com/salman-bhai/Chrome-Extension/blob/master/license.md)
