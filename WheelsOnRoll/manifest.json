@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Wheels On Roll",
+  "description": "This extension will tell you about cycles",
+  "version": "1.0",
+  "browser_action": {
+   "default_icon": "icon.png"
+  },
+  "background": {
+    "scripts": ["popup.js"]
+  }
+}
