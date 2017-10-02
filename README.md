@@ -12,18 +12,18 @@ $ git clone  https://github.com/user_name/Chrome-Extension
 $ cd Chrome-Extension/GTmetrix-Chrome-Plugin
 ```
 
-##Usage
+## Usage
 - This is extension used to enhance user experience in Chrome.
 
-#Contributing 
+# Contributing 
 - The repository is open to contribution from all interested developers. 
 - Kindly send us Pull Requests with explanation as to what changes you have done.
 - Also, you can write to us by opening an Issue and also solve a current issue if possible. 
 - [Click Here](https://github.com/salman-bhai/Chrome-Extension/blob/master/CONTRIBUTING.md)
 
-##Code Status
+## Code Status
 - [Click Here] (https://github.com/salman-bhai/Chrome-Extension/blob/master/GTmetrix-Chrome-Plugin/README.md)
 
-##License
+## License
 - The software is registered under the [MIT License](https://github.com/salman-bhai/Chrome-Extension/blob/master/license.md)
 
